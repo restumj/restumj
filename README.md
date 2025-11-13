@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### A computer scientist who sometimes likes to make games.
 
-- 🌱 I’m currently learning **[Frontend Developer](https://roadmap.sh/frontend?r=frontend-beginner)**
+- 🌱 I’m currently learning **[Frontend Developer](https://roadmap.sh/frontend?r=frontend-beginner)** and **[Computer Science](https://roadmap.sh/computer-science)**
 
 <hr>
 
