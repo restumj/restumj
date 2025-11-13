@@ -24,6 +24,10 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Restu+Manujaya!;" />
 </h1>
 
+### A computer scientist who sometimes likes to make games.
+
+- 🌱 I’m currently learning **[Frontend Developer](https://roadmap.sh/system-design](https://roadmap.sh/frontend?r=frontend-beginner)**
+
 <hr>
 
 ## 🐍 My Contributions
