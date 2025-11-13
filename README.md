@@ -30,6 +30,16 @@ Here are some ideas to get you started:
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,github,vscode" />
+</p>
+
+<hr>
+
 ## 🐍 My Contributions
 
 <div align="center">
