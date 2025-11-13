@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,github,vscode,lua,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,github,vscode,lua,html,css,py" />
 </p>
 
 <hr>
